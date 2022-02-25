@@ -2,9 +2,6 @@
 	"mouseover": [{
 		"selector": "#waifu #live2d",
 		"text": ["干嘛呢你，人家怪害怕的，把手拿开呀～～", "鼠…鼠标放错地方了吧？", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "嘤嘤嘤", "你再碰我我就跟我家主人说，哼", "我要生气了哦", "主人，救命啊！"]
-	}, {
-		"selector": ".bClientServer",
-		"text":["服务器-客户机，即Client-Server(C/S)结构。C/S结构通常采取两层结构。服务器负责数据的管理，客户机负责完成与用户的交互任务"]
 	},{
 		"selector": ".lower",
 		"text": ["看看菜单里有什么吧？"]
@@ -71,6 +68,9 @@
 	}, {
 		"selector": ".changeSkin-gear",
 		"text": ["换个主题吧！","有夜间模式哦"]
+	}, {
+		"selector": ".bClientServer",
+		"text": ["服务器-客户机，即Client-Server(C/S)结构。","C/S结构通常采取两层结构。服务器负责数据的管理，客户机负责完成与用户的交互任务"]
 	},  {
 		"selector": "a[href^='mailto']",
 		"text": ["邮件我会告诉主人及时回复的！", "点击就可以发送邮件啦～"]
